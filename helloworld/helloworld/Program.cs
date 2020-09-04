@@ -24,6 +24,24 @@ namespace helloworld
 				Console.WriteLine("död");
 			}
 		
+			if (30 > 10 )
+			{
+				Console.WriteLine("30 is greater than 10");
+            }
+
+			int ålder = 17;
+			if (ålder < 18)
+            {
+				Console.WriteLine("Tyvärr går inte");
+            }
+		    else if (ålder > 18)
+            {
+				Console.WriteLine("62 kronor tack");
+            }
+		    else
+            {
+				Console.WriteLine("skit på dig");
+            }
 		}
 	}
 }
