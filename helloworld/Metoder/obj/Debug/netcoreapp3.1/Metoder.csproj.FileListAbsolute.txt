@@ -1,0 +1,13 @@
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Metoder\bin\Debug\netcoreapp3.1\Metoder.exe
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Metoder\bin\Debug\netcoreapp3.1\Metoder.deps.json
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.json
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.dev.json
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Metoder\bin\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Metoder\bin\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Metoder\obj\Debug\netcoreapp3.1\Metoder.csprojAssemblyReference.cache
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfoInputs.cache
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfo.cs
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Metoder\obj\Debug\netcoreapp3.1\Metoder.csproj.CoreCompileInputs.cache
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Metoder\obj\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Metoder\obj\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Metoder\obj\Debug\netcoreapp3.1\Metoder.genruntimeconfig.cache
