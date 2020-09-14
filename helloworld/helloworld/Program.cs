@@ -42,6 +42,36 @@ namespace helloworld
             {
 				Console.WriteLine("skit på dig");
             }
+
+            for (int i = 0; i <= 10; i = i + 2)
+            {
+				Console.WriteLine(i);
+            }
+
+			int y = 0;
+			while (y < 15)
+            {
+
+				Console.WriteLine(y);
+				y++;
+
+            }
+
+			int person = 2;
+			switch (person)
+            {
+
+				case 1:
+					Console.WriteLine("Kalle");
+					break;
+				case 2:
+					Console.WriteLine("Andre");
+					break;
+				case 3:
+					Console.WriteLine("Malte");
+					break;
+			}
+
 		}
 	}
 }

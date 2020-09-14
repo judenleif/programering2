@@ -16,9 +16,6 @@ namespace Metoder
 
         }
 
-        public static void Hej()
-        {
-
         }
         
     }
