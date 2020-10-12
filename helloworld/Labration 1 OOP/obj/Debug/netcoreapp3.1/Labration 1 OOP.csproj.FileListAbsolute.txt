@@ -1,0 +1,13 @@
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Labration 1 OOP\bin\Debug\netcoreapp3.1\Labration 1 OOP.exe
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Labration 1 OOP\bin\Debug\netcoreapp3.1\Labration 1 OOP.deps.json
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Labration 1 OOP\bin\Debug\netcoreapp3.1\Labration 1 OOP.runtimeconfig.json
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Labration 1 OOP\bin\Debug\netcoreapp3.1\Labration 1 OOP.runtimeconfig.dev.json
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Labration 1 OOP\bin\Debug\netcoreapp3.1\Labration 1 OOP.dll
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Labration 1 OOP\bin\Debug\netcoreapp3.1\Labration 1 OOP.pdb
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Labration 1 OOP\obj\Debug\netcoreapp3.1\Labration 1 OOP.AssemblyInfoInputs.cache
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Labration 1 OOP\obj\Debug\netcoreapp3.1\Labration 1 OOP.AssemblyInfo.cs
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Labration 1 OOP\obj\Debug\netcoreapp3.1\Labration 1 OOP.csproj.CoreCompileInputs.cache
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Labration 1 OOP\obj\Debug\netcoreapp3.1\Labration 1 OOP.dll
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Labration 1 OOP\obj\Debug\netcoreapp3.1\Labration 1 OOP.pdb
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Labration 1 OOP\obj\Debug\netcoreapp3.1\Labration 1 OOP.genruntimeconfig.cache
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Labration 1 OOP\obj\Debug\netcoreapp3.1\Labration 1 OOP.csprojAssemblyReference.cache

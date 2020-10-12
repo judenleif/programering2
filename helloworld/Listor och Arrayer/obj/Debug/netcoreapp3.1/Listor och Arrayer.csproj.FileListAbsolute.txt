@@ -1,0 +1,13 @@
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Listor och Arrayer\bin\Debug\netcoreapp3.1\Listor och Arrayer.exe
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Listor och Arrayer\bin\Debug\netcoreapp3.1\Listor och Arrayer.deps.json
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Listor och Arrayer\bin\Debug\netcoreapp3.1\Listor och Arrayer.runtimeconfig.json
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Listor och Arrayer\bin\Debug\netcoreapp3.1\Listor och Arrayer.runtimeconfig.dev.json
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Listor och Arrayer\bin\Debug\netcoreapp3.1\Listor och Arrayer.dll
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Listor och Arrayer\bin\Debug\netcoreapp3.1\Listor och Arrayer.pdb
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Listor och Arrayer\obj\Debug\netcoreapp3.1\Listor och Arrayer.csprojAssemblyReference.cache
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Listor och Arrayer\obj\Debug\netcoreapp3.1\Listor och Arrayer.AssemblyInfoInputs.cache
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Listor och Arrayer\obj\Debug\netcoreapp3.1\Listor och Arrayer.AssemblyInfo.cs
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Listor och Arrayer\obj\Debug\netcoreapp3.1\Listor och Arrayer.csproj.CoreCompileInputs.cache
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Listor och Arrayer\obj\Debug\netcoreapp3.1\Listor och Arrayer.dll
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Listor och Arrayer\obj\Debug\netcoreapp3.1\Listor och Arrayer.pdb
+C:\Users\lucas.lindqvist\Documents\GitHub\programering2\helloworld\Listor och Arrayer\obj\Debug\netcoreapp3.1\Listor och Arrayer.genruntimeconfig.cache

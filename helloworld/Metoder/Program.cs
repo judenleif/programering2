@@ -4,20 +4,41 @@ namespace Metoder
 {
     class Program 
     {
-        static int adera(int x,int y)
+        static int adera(int[] talen)
         {
-                return x + y;
+            int sum = 0;
+           
+            foreach (int tal in talen)
+            {
+                sum += tal;
+            }
+
+            return sum;
         }
         
+        static void rev(string[] orden)
+        {
+
+            for (int i = 3; i >= 0; i--)
+            {
+                Console.WriteLine(orden[i]);
+            }
+        }
         static void Main(string[] args)
         {
 
-                Console.WriteLine(adera(5, 6));
+            int[] bajs = { 1, 2, 3 };
+            Console.WriteLine(adera(bajs));
 
+
+            string[] noobs = { "Kalle", "Kallle", "Kalllle", "Kallllle" };
+            rev(noobs);
+            
+       
         }
 
-        }
-        
     }
+        
  }
+ 
 
